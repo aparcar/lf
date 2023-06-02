@@ -1,0 +1,28 @@
+img[src$="#floatright"] {
+  max-width: 30%;
+  width: auto\9 * 0.3; /* ie8 */
+  height: auto;
+  float: right;
+}
+
+figure.floatleft {
+  max-width: 30%;
+  width: auto\9 * 0.3; /* ie8 */
+  height: auto;
+  float: left;
+}
+
+.home-about .avatar img {
+  height: auto;
+  border-radius: 0%;
+  object-fit: contain;
+}
+
+.home-about .avatar img {
+  height: 7rem;
+  width: 7rem;
+}
+
+.footer {
+  display: none;
+}

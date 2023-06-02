@@ -1,19 +1,27 @@
 ---
-title: "References"
+title: "Referenzen"
 type: page
 ---
+### Übersetzungen
+
+Aus dem Englischen ins Deutsche: 
+
+* **McAlevey, Jane/Lawlor, Abby (2023):** Machtaufbau in
+  Tarifauseinandersetzungen. Fallbeispiele aus den USA und Deutschland. 
+  Unter: https://www.rosalux.de/publikation/id/50330
 
 
-### References
+### Organisation gewerkschaftlicher Auslands-Bildungsurlaube
 
-#### Barcelona
+* Für das **ver.di Bildungswerk Hessen**; Organisation und Verdolmetschung
+* **Insorgiamo!** Was wir vom GKN-Fabrikkollektiv und der toskanischen
+  Zivilgesellschaft für den gesellschaftlichen Wandel in Europa lernen können.
+  (Mai 2023)
+* **Unabhängigkeitsbewegung in Katalonien** - Richtung Nationalismus, Demokratie,
+  sozialer Gerechtigkeit? Lehren für europäische oder deutsche Entwicklungen
+  (September 2022, September 2023)
+* Für **Aprender Juntos e.V.**; Geschichte und Gegenwart der Arbeiter:innenbewegung
+  in Bologna und Umgebung
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui atque facilis
-explicabo, nobis nihil non rem quod harum, ipsam quae id suscipit dicta tempore,
-magni odit possimus quas laborum distinctio.
 
-#### Rome
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius tenetur
-consectetur, animi illo asperiores temporibus repellat laborum voluptatum
-perspiciatis obcaecati.
