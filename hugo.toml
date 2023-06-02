@@ -10,7 +10,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Lukas Ferrari"
-  description = "Dolmetscher, Übersetzer, Kulturvermittler. "
+  description = "Dolmetscher, Übersetzer, Kulturmittler."
   avatarURL = "/images/logo.svg"
   AvatarAltText = "avatar"
   avatarSize = "size-l"
