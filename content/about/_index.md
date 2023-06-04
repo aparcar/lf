@@ -3,7 +3,7 @@ title: "Über mich"
 type: page
 ---
 
-![](/images/profile.png#floatright)
+![](/images/profile.jpg#floatright)
 
 Als ausgebildeter Konferenzdolmetscher stehe ich für konsekutive und simultane
 Verdolmetschung in den Sprachen Italienisch, Deutsch, Französisch, Englisch,
