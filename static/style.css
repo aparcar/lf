@@ -26,3 +26,14 @@ figure.floatleft {
 .footer {
   display: none;
 }
+
+@font-face {
+  font-family: Montserrat-Light;
+  font-weight: 700;
+  src: url("/fonts/Montserrat-Light.ttf");
+}
+
+.home-about > h1 {
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 70px;
+}
